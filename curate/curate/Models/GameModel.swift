@@ -2,7 +2,6 @@
 //  GameModel.swift
 //  curate
 //
-//  Created by Yash Wani on 12/7/21.
 //
 
 import Foundation
