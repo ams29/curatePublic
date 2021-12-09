@@ -2,7 +2,7 @@
 //  MatchMakingView.swift
 //  curate
 //
-//  Created by Yash Wani on 12/7/21.
+//  Created by Ananth Subramanya on 12/7/21.
 //
 
 import SwiftUI
