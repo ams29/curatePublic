@@ -2,7 +2,6 @@
 //  ContentView.swift
 //  curate
 //
-//  Created by Yash Wani on 12/4/21.
 //
 
 import SwiftUI
