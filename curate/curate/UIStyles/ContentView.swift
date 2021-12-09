@@ -2,7 +2,6 @@
 //  ContentView.swift
 //  Shared
 //
-//  Created by Patron on 12/7/21.
 //
 
 import SwiftUI
